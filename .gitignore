@@ -1,0 +1,4 @@
+.editorconfig
+/.exercism
+/bin
+/obj
